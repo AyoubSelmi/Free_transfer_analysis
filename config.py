@@ -1,0 +1,5 @@
+DB_HOST = 'localhost'
+DB_PORT = '3306'
+DATABASE_NAME = 'football_transfers'
+EMAIL_RECEIVER = ''
+DATA_DIRECTORY = r''
